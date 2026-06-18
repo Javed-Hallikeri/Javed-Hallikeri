@@ -162,6 +162,11 @@
 * Reach 1000+ GitHub Contributions
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Javed-Hallikeri/Javed-Hallikeri/output/github-contribution-grid-snake.svg" />
+</p>
 
 # 📫 Connect With Me
 
