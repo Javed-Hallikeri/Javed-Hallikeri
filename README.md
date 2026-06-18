@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Computer+Engineering+Student;President+of+ACES;Building+AI+Powered+Applications;Open+to+Internships+and+Opportunities" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Computer+Engineering+Student;President+of+ACES" />
 
 <br>
 
@@ -12,165 +12,74 @@
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Final Year B.Tech Computer Engineering Student
-
-🏫 Sanjay Bhokare Group of Institutes (SBGI), Miraj
-
-👨‍💼 President – Association of Computer Engineering Students (ACES)
-
-💻 Full Stack Developer specializing in MERN Stack
-
-🚀 Passionate about building scalable web applications
-
-🤖 Exploring AI, Machine Learning & System Design
-
-🏆 1st Prize Winner – EMPIRE Mega Project Competition
-
-📚 Constantly learning new technologies and frameworks
+* 🎓 B.Tech Computer Engineering Student
+* 👨‍💼 President, ACES – SBGI Miraj
+* 💻 MERN Stack Developer
+* 🤖 Interested in AI, Machine Learning & System Design
+* 🏆 1st Prize Winner – EMPIRE Mega Project Competition
+* 🚀 Open to Internships & Software Developer Opportunities
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,python,php,git,github,vercel,vscode" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎥 VisionMeet – AI Virtual Group Discussion Platform
+### VisionMeet
 
-* Real-Time Video Conferencing
-* WebRTC Integration
-* AI-Based Evaluation
-* Resume Builder
-* Mock Interview System
-* Admin Dashboard
-* Live Chat
+AI-powered Virtual Group Discussion Platform built with React, Node.js, MongoDB, Socket.IO and WebRTC.
 
-**Tech Stack:** React.js • Node.js • MongoDB • Socket.IO • WebRTC
+### BizFlow POS
 
----
+Restaurant billing and management system with GST billing and analytics.
 
-## 🍽️ BizFlow POS System
+### Online Voting System
 
-* GST Billing
-* Order Management
-* Thermal Printer Support
-* Sales Reports
-* Customer Management
+Secure OTP-based voting platform with admin dashboard.
 
-**Tech Stack:** Java • MySQL • Android Studio
+### Invoice Generator
+
+Professional invoice and quotation generator with PDF export.
 
 ---
 
-## 🗳️ Online Voting System
-
-* OTP Authentication
-* Secure Voting
-* Admin Dashboard
-* Candidate Management
-
-**Tech Stack:** PHP • MySQL • JavaScript
-
----
-
-## 📄 Invoice & Quotation Generator
-
-* PDF Generation
-* GST Calculation
-* Customer Records
-* Print & Download Support
-
-**Tech Stack:** Node.js • Express.js • PDFKit
-
----
-
-# 🏆 Achievements
-
-🥇 First Prize – EMPIRE Mega Project Competition
-
-👨‍💼 President – ACES (Association of Computer Engineering Students)
-
-💻 Developed Multiple Full Stack Applications
-
-🚀 Active Open Source Contributor
-
-📚 Computer Engineering Student Leader
-
----
-
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=Javed-Hallikeri&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=Javed-Hallikeri&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br>
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-Hallikeri&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-Hallikeri&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javed-Hallikeri&theme=tokyo-night" />
+<img src="https://raw.githubusercontent.com/Javed-Hallikeri/Javed-Hallikeri/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-# 🎯 2026 Goals
+## 📫 Connect With Me
 
-* Master MERN Stack Development
-* Learn Advanced System Design
-* Build AI Powered Products
-* Contribute to Open Source
-* Secure a Software Developer Role
-* Reach 1000+ GitHub Contributions
-
----
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Javed-Hallikeri/Javed-Hallikeri/output/github-contribution-grid-snake.svg" />
-</p>
-
-# 📫 Connect With Me
-
-📧 Email: [javedhalikeri3993@gmail.com](mailto:javedhalikeri3993@gmail.com)
+📧 [javedhalikeri3993@gmail.com](mailto:javedhalikeri3993@gmail.com)
 
 💼 LinkedIn: https://www.linkedin.com/in/javed-hallikeri3993
 
@@ -182,8 +91,6 @@
 
 <div align="center">
 
-### ⭐ Code • Learn • Build • Repeat
-
-*"Turning Ideas Into Reality Through Code"*
+### ⭐ Building Scalable Web Applications & AI Solutions
 
 </div>
