@@ -23,10 +23,30 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql,python,php,git,github,vercel,vscode" />
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
 </p>
 
 ---
