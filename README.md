@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=hallikerijaved&label=Profile+Views&color=0891b2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Javed-Hallikeri&label=Profile+Views&color=0891b2&style=for-the-badge" />
 
 </div>
 
@@ -64,13 +64,9 @@
 
 ## 🎥 VisionMeet – AI Virtual Group Discussion Platform
 
-An AI-powered online discussion platform with real-time communication and evaluation.
-
-### Features
-
 * Real-Time Video Conferencing
 * WebRTC Integration
-* AI Based Evaluation
+* AI-Based Evaluation
 * Resume Builder
 * Mock Interview System
 * Admin Dashboard
@@ -81,10 +77,6 @@ An AI-powered online discussion platform with real-time communication and evalua
 ---
 
 ## 🍽️ BizFlow POS System
-
-Restaurant billing and management software with analytics dashboard.
-
-### Features
 
 * GST Billing
 * Order Management
@@ -98,10 +90,6 @@ Restaurant billing and management software with analytics dashboard.
 
 ## 🗳️ Online Voting System
 
-Secure voting platform with OTP verification and role-based access.
-
-### Features
-
 * OTP Authentication
 * Secure Voting
 * Admin Dashboard
@@ -112,10 +100,6 @@ Secure voting platform with OTP verification and role-based access.
 ---
 
 ## 📄 Invoice & Quotation Generator
-
-Professional invoice generation platform with PDF export.
-
-### Features
 
 * PDF Generation
 * GST Calculation
@@ -144,9 +128,9 @@ Professional invoice generation platform with PDF export.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hallikerijaved&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=hallikerijaved&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Javed-Hallikeri&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -154,7 +138,7 @@ Professional invoice generation platform with PDF export.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hallikerijaved&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-Hallikeri&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -163,15 +147,7 @@ Professional invoice generation platform with PDF export.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hallikerijaved&theme=tokyo-night" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/hallikerijaved/hallikerijaved/output/snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javed-Hallikeri&theme=tokyo-night" />
 </p>
 
 ---
@@ -193,7 +169,7 @@ Professional invoice generation platform with PDF export.
 
 💼 LinkedIn: https://www.linkedin.com/in/javed-hallikeri3993
 
-💻 GitHub: https://github.com/hallikerijaved
+💻 GitHub: https://github.com/Javed-Hallikeri
 
 🌐 Portfolio: https://javed.page.gd
 
