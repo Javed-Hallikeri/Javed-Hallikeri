@@ -75,9 +75,9 @@ Professional invoice and quotation generator with PDF export.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Javed-Hallikeri&theme=tokyonight&hide_border=true"/>
+<img height="155" src="https://streak-stats.demolab.com?user=Javed-Hallikeri&theme=tokyonight&hide_border=true"/>
 
 </div>
 
