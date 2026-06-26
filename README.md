@@ -103,8 +103,6 @@ Professional invoice and quotation generator with PDF export.
 
 💼 LinkedIn: https://www.linkedin.com/in/javed-hallikeri3993
 
-💻 GitHub: https://github.com/Javed-Hallikeri
-
 🌐 Portfolio: https://javed.page.gd
 
 ---
