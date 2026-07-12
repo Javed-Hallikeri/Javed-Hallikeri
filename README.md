@@ -196,7 +196,7 @@ Restaurant Management System
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://javed.page.gd">
+<a href="https://javedhallikeri.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
