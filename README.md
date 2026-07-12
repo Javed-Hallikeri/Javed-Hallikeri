@@ -1,114 +1,214 @@
-# 🚀 Javed Hallikeri
+# Hi 👋, I'm Javed Hallikeri
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Developer;Computer+Engineering+Student;President+of+ACES" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;MERN+Stack+Developer;Computer+Engineering+Student;President+of+ACES;AI+Enthusiast;Open+Source+Contributor" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Javed-Hallikeri&label=Profile+Views&color=0891b2&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Javed-Hallikeri&style=for-the-badge&color=0891b2"/>
+
+<img src="https://img.shields.io/github/followers/Javed-Hallikeri?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/Javed-Hallikeri?style=for-the-badge">
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-* 🎓 B.Tech Computer Engineering Student
-* 👨‍💼 President, ACES – SBGI Miraj
-* 💻 MERN Stack Developer
-* 🤖 Interested in AI, Machine Learning & System Design
-* 🏆 1st Prize Winner – EMPIRE Mega Project Competition
-* 🚀 Open to Internships & Software Developer Opportunities
+🎓 Final Year B.Tech Computer Engineering Student
+
+💼 President – Association of Computer Engineering Students (ACES)
+
+💻 Full Stack MERN Developer
+
+🤖 Passionate about AI, Machine Learning & System Design
+
+🏆 First Prize Winner – EMPIRE Mega Project Competition
+
+🌱 Currently Learning
+
+- Advanced System Design
+- Docker & Kubernetes
+- AWS Cloud
+- AI Integration
+
+💬 Ask Me About
+
+- React
+- Node.js
+- MongoDB
+- Express
+- REST APIs
+- Firebase
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,php,js"/>
+</p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
 </p>
 
-### Tools & Platforms
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### VisionMeet
+## 🎥 VisionMeet
 
-AI-powered Virtual Group Discussion Platform built with React, Node.js, MongoDB, Socket.IO and WebRTC.
+AI Powered Virtual Group Discussion Platform
 
-### BizFlow POS
+✔ WebRTC
 
-Restaurant billing and management system with GST billing and analytics.
+✔ Socket.IO
 
-### Online Voting System
+✔ AI Evaluation
 
-Secure OTP-based voting platform with admin dashboard.
+✔ Resume Builder
 
-### Invoice Generator
-
-Professional invoice and quotation generator with PDF export.
+✔ Mock Interview
 
 ---
 
-## 📊 GitHub Stats
+## 🍽 BizFlow POS
 
-<div align="center">
+Restaurant Management System
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true"/>
+✔ GST Billing
 
-<img height="155" src="https://streak-stats.demolab.com?user=Javed-Hallikeri&theme=tokyonight&hide_border=true"/>
+✔ Analytics Dashboard
 
-</div>
+✔ Order Management
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-Hallikeri&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+✔ Thermal Printer
 
 ---
 
-## 🐍 Contribution Snake
+## 🗳 Online Voting System
+
+✔ OTP Authentication
+
+✔ Admin Dashboard
+
+✔ Live Voting
+
+---
+
+## 📄 Invoice Generator
+
+✔ PDF Export
+
+✔ Quotation Generator
+
+✔ GST Calculation
+
+---
+
+# 🏆 Achievements
+
+🥇 EMPIRE Mega Project Competition Winner
+
+👨‍💼 President of ACES
+
+💻 Full Stack Developer
+
+🎓 Computer Engineering Student
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Javed-Hallikeri/Javed-Hallikeri/output/github-contribution-grid-snake.svg" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Javed-Hallikeri&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-Hallikeri&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 📊 Contribution Graph
 
-📧 Gmail: [javedhalikeri3993@gmail.com](mailto:javedhalikeri3993@gmail.com)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javed-Hallikeri&theme=tokyo-night&hide_border=true"/>
+</p>
 
-💼 LinkedIn: https://www.linkedin.com/in/javed-hallikeri3993
+---
 
-🌐 Portfolio: https://javed.page.gd
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Javed-Hallikeri/Javed-Hallikeri/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Javed-Hallikeri&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:javedhalikeri3993@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/javed-hallikeri3993">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/Javed-Hallikeri">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://javed.page.gd">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Building Scalable Web Applications & AI Solutions
+## 💙 "Building Scalable Web Applications & AI Solutions"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B68EE&height=120&section=footer"/>
 
 </div>
