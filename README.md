@@ -147,7 +147,7 @@ Restaurant Management System
 # 📈 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true"/>
+[<img height="170" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true"/>](https://streak-stats.demolab.com?user=Javed-Hallikeri&theme=tokyonight&hide_border=true)
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Javed-Hallikeri&theme=tokyonight&hide_border=true"/>
 </p>
 
