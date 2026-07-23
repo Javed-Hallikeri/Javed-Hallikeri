@@ -140,8 +140,13 @@ Professional invoice and quotation generator with clean PDF export.
 ## `04` GitHub Activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=00F7FF&icon_color=7B68EE" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-Hallikeri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=00F7FF" />
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-Hallikeri&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+
 </div>
 
 <div align="center">
