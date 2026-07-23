@@ -1,132 +1,186 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F7FF,50:4F46E5,100:7B68EE&text=Javed%20Hallikeri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Enthusiast&descAlignY=58"/>
+<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F1A,50:1A1A3E,100:0F0F1A&height=200&section=header&text=JAVED%20HALLIKERI&fontSize=42&fontColor=00F7FF&fontAlignY=40&desc=Full%20Stack%20Developer%20·%20MERN%20·%20AI&descAlignY=62&descSize=18&descColor=8B8FA3&animation=fadeIn"/>
 
-### 💻 Full Stack Developer • MERN Stack • AI Enthusiast • Open Source Contributor
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;AI-Powered+Solutions;Cloud+%26+DevOps+Learner;Always+Shipping+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=560&lines=Building+scalable+web+applications;Shipping+AI-powered+products;Learning+cloud+%26+system+design;Open+to+collaboration" />
 
-<br>
+<br/><br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Javed-Hallikeri?label=Followers&style=for-the-badge&logo=github&color=00F7FF)](https://github.com/Javed-Hallikeri)
-[![Profile views](https://komarev.com/ghpvc/?username=Javed-Hallikeri&style=for-the-badge&color=4F46E5)](https://github.com/Javed-Hallikeri)
-[![GitHub stars](https://img.shields.io/github/stars/Javed-Hallikeri?style=for-the-badge&color=7B68EE)](https://github.com/Javed-Hallikeri)
+<a href="mailto:javedhalikeri3993@gmail.com"><img src="https://img.shields.io/badge/Email-0F0F1A?style=for-the-badge&logo=gmail&logoColor=00F7FF" /></a>
+<a href="https://www.linkedin.com/in/javed-hallikeri3993"><img src="https://img.shields.io/badge/LinkedIn-0F0F1A?style=for-the-badge&logo=linkedin&logoColor=00F7FF" /></a>
+<a href="https://javedhallikeri.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0F0F1A?style=for-the-badge&logo=vercel&logoColor=00F7FF" /></a>
+<a href="https://github.com/Javed-Hallikeri"><img src="https://img.shields.io/github/followers/Javed-Hallikeri?style=for-the-badge&logo=github&label=Follow&labelColor=0F0F1A&color=1A1A3E" /></a>
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+## `01` About
 
-```javascript
-const javed = {
-  role: "Full Stack Developer",
-  education: "B.Tech, Computer Engineering",
-  location: "India 🇮🇳",
+I'm a full-stack developer working across the **MERN** stack, currently deep in **AI-powered applications** and **cloud infrastructure**. I like taking products from a blank repo to something people actually use — clean UI, solid backend, no unnecessary complexity.
 
-  languages: ["JavaScript", "Java", "Python", "PHP", "C", "C++"],
-
-  stack: {
-    frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
-    backend:  ["Node.js", "Express.js"],
-    database: ["MongoDB", "MySQL", "Firebase"],
-    cloud:    ["AWS", "Vercel", "Render"]
-  },
-
-  currentlyLearning: [
-    "Docker", "Kubernetes", "System Design", "Microservices", "Generative AI"
-  ],
-
-  funFact: "I enjoy building products that solve real-world problems."
-};
+```yaml
+role:        Full Stack Developer
+education:   B.Tech, Computer Engineering
+based_in:    India
+focus:       AI-powered web apps · scalable backend systems
+learning:    Docker · Kubernetes · System Design · Generative AI
 ```
 
----
+<br/>
 
-### 🛠 Tech Stack
+## `02` Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" /><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,redux" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" /><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" /><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vercel,render" /><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,figma" />
-</p>
+<table>
+<tr>
+<td valign="top" width="33%">
 
----
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,java,python,php,c,cpp&theme=dark" />
 
-### 🌟 Featured Projects
+</td>
+<td valign="top" width="33%">
 
-| Project | Description | Tech |
-|---|---|---|
-| 🎥 **[VisionMeet](https://github.com/Javed-Hallikeri)** | AI-powered virtual group discussion platform with WebRTC, AI evaluation, and an integrated resume builder | React • Node.js • MongoDB • Socket.IO |
-| 🍽 **[BizFlow POS](https://github.com/Javed-Hallikeri)** | Restaurant billing and management system with GST billing and sales analytics | Java • MySQL |
-| 🗳 **[Online Voting System](https://github.com/Javed-Hallikeri)** | Secure OTP-based voting platform with an admin dashboard | PHP • MySQL |
-| 📄 **[Invoice Generator](https://github.com/Javed-Hallikeri)** | Professional invoice and quotation generator with PDF export | Next.js • Node.js |
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,html,css&theme=dark" />
 
-> 💡 Tip: replace the placeholder links above with the actual repo URLs for each project so they're clickable.
+</td>
+<td valign="top" width="33%">
 
----
+**Backend & Data**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
 
-### 🏆 Achievements
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
-- 🥇 Winner — EMPIRE Mega Project Competition
-- 💻 Full Stack MERN Developer
-- 🤖 AI & Cloud Computing Enthusiast
-- 🌍 Open Source Contributor
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,render&theme=dark" />
 
----
+</td>
+<td valign="top" width="33%">
 
-### 📈 GitHub Stats
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-Hallikeri&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</td>
+<td valign="top" width="33%">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Javed-Hallikeri&theme=tokyonight&hide_border=true" />
-</p>
+**Currently exploring**
+<br/>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker&theme=dark" /> System design, LLM apps
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javed-Hallikeri&theme=react-dark&hide_border=true" />
-</p>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Javed-Hallikeri&theme=tokyonight&no-frame=true&row=2&column=4" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Javed-Hallikeri/Javed-Hallikeri/output/github-contribution-grid-snake-dark.svg" />
-</p>
+## `03` Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🎯 2026 Roadmap
+### 🎥 VisionMeet
+AI-powered virtual group discussion platform — real-time video via WebRTC, automated AI evaluation, and a built-in resume builder.
+
+`React` `Node.js` `MongoDB` `Socket.IO`
+
+[View repo →](https://github.com/Javed-Hallikeri)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽 BizFlow POS
+Restaurant billing and management system with GST-compliant invoicing and live sales analytics.
+
+`Java` `MySQL`
+
+[View repo →](https://github.com/Javed-Hallikeri)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗳 Online Voting System
+OTP-secured voting platform with a full admin dashboard for election management.
+
+`PHP` `MySQL`
+
+[View repo →](https://github.com/Javed-Hallikeri)
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 Invoice Generator
+Professional invoice and quotation generator with clean PDF export.
+
+`Next.js` `Node.js`
+
+[View repo →](https://github.com/Javed-Hallikeri)
+
+</td>
+</tr>
+</table>
+
+> Swap the placeholder `github.com/Javed-Hallikeri` links above with each project's actual repo URL.
+
+<br/>
+
+## `04` GitHub Activity
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=00F7FF&icon_color=7B68EE" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-Hallikeri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=00F7FF" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Javed-Hallikeri&theme=tokyonight&hide_border=true&background=0F0F1A&ring=00F7FF&fire=7B68EE" />
+</div>
+
+<div align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Javed-Hallikeri&theme=react-dark&hide_border=true&bg_color=0F0F1A&color=00F7FF&line=7B68EE&point=ffffff" />
+</div>
+
+<details>
+<summary><b>More stats</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Javed-Hallikeri&theme=darkhub&no-frame=true&row=1&column=6" />
+<br/>
+<img src="https://raw.githubusercontent.com/Javed-Hallikeri/Javed-Hallikeri/output/github-contribution-grid-snake-dark.svg" />
+</div>
+</details>
+
+<br/>
+
+## `05` 2026 Goals
 
 - [x] Master AWS & cloud architecture
-- [x] Learn Docker & Kubernetes
-- [ ] Build a production-ready SaaS project
+- [x] Learn Docker & Kubernetes fundamentals
+- [ ] Ship a production-ready SaaS project
 - [ ] Sharpen system design skills
 - [ ] Contribute to a major open-source project
-- [ ] Ship a generative AI / LLM-powered app
+- [ ] Build a generative AI / LLM-powered app
 
----
-
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:javedhalikeri3993@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.linkedin.com/in/javed-hallikeri3993"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/Javed-Hallikeri"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://javedhallikeri.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" /></a>
-</p>
+<br/>
 
 <div align="center">
 
-*"Code is not just about solving problems; it's about creating possibilities."*
+<sub>💬 *"Code is not just about solving problems; it's about creating possibilities."*</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00F7FF,50:4F46E5,100:7B68EE"/>
+<br/>
+
+<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F1A,50:1A1A3E,100:0F0F1A&height=120&section=footer"/>
 
 </div>
