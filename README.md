@@ -1,16 +1,20 @@
 <div align="center">
 
-# Hi 👋, I'm Javed Hallikeri
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F7FF,50:4F46E5,100:7B68EE&text=Javed%20Hallikeri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20AI%20Enthusiast&descAlignY=58"/>
 
-### Full Stack MERN Developer • AI Enthusiast • Open Source Contributor
+# 👋 Hello World! I'm Javed Hallikeri
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Scalable+Applications;Always+Learning+Something+New"/>
+### 💻 Full Stack Developer • MERN Stack • AI Enthusiast • Open Source Contributor
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;AI+Powered+Solutions;Cloud+Computing+Learner;Always+Learning+New+Technologies"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Javed-Hallikeri&style=for-the-badge&color=0e75b6"/>
+<a href="https://github.com/Javed-Hallikeri">
+<img src="https://img.shields.io/github/followers/Javed-Hallikeri?label=Followers&style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://img.shields.io/github/followers/Javed-Hallikeri?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Javed-Hallikeri&style=for-the-badge&color=blue"/>
 
 <img src="https://img.shields.io/github/stars/Javed-Hallikeri?style=for-the-badge"/>
 
@@ -22,37 +26,81 @@
 
 ```javascript
 const javed = {
+    role: "Full Stack Developer",
     education: "B.Tech Computer Engineering",
-    role: "Full Stack MERN Developer",
     location: "India 🇮🇳",
-    interests: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "System Design",
-        "Cloud Computing"
+
+    code: [
+        "JavaScript",
+        "Java",
+        "Python",
+        "PHP",
+        "C",
+        "C++"
     ],
+
+    technologies: {
+        frontend: [
+            "React",
+            "Next.js",
+            "Tailwind CSS",
+            "Bootstrap"
+        ],
+
+        backend: [
+            "Node.js",
+            "Express.js"
+        ],
+
+        database: [
+            "MongoDB",
+            "MySQL",
+            "Firebase"
+        ],
+
+        cloud: [
+            "AWS",
+            "Vercel",
+            "Render"
+        ]
+    },
+
     currentlyLearning: [
-        "AWS",
         "Docker",
         "Kubernetes",
-        "Microservices"
+        "Microservices",
+        "System Design",
+        "Artificial Intelligence"
     ],
-    lookingFor: "Software Development Opportunities",
-    funFact: "I love transforming ideas into scalable applications."
+
+    funFact: "I enjoy building products that solve real-world problems."
 }
 ```
 
 ---
 
-# 💻 Tech Stack
+# 💼 What I'm Working On
 
-## Languages
+* 🚀 Full Stack MERN Applications
+* 🤖 AI-Powered Web Applications
+* ☁ AWS Cloud Projects
+* 📱 Responsive UI/UX
+* 🌍 Open Source Contributions
+* 🏗 Scalable Backend Systems
+
+---
+
+# 🛠 Tech Stack
+
+## Programming Languages
 
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php"/>
 
 </p>
+
+---
 
 ## Frontend
 
@@ -62,6 +110,8 @@ const javed = {
 
 </p>
 
+---
+
 ## Backend
 
 <p align="center">
@@ -69,6 +119,8 @@ const javed = {
 <img src="https://skillicons.dev/icons?i=nodejs,express"/>
 
 </p>
+
+---
 
 ## Database
 
@@ -78,6 +130,8 @@ const javed = {
 
 </p>
 
+---
+
 ## Cloud & DevOps
 
 <p align="center">
@@ -86,7 +140,9 @@ const javed = {
 
 </p>
 
-## Development Tools
+---
+
+## Tools
 
 <p align="center">
 
@@ -98,36 +154,36 @@ const javed = {
 
 # 🌟 Featured Projects
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🎥 VisionMeet | AI-powered Virtual Group Discussion Platform | React • Node • MongoDB • WebRTC |
-| 🍽 BizFlow POS | Restaurant POS & Billing System | Java • MySQL |
-| 📄 Invoice Generator | GST Invoice Generator | Next.js • Node |
-| 🗳 Online Voting System | OTP-Based Secure Voting | PHP • MySQL |
+| 🚀 Project                  | Description                                                                              | Tech                                  |
+| --------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------- |
+| 🎥 **VisionMeet**           | AI-powered Virtual Group Discussion Platform with WebRTC, AI Evaluation & Resume Builder | React • Node.js • MongoDB • Socket.IO |
+| 🍽 **BizFlow POS**          | Restaurant Billing & Management System with Analytics & GST Billing                      | Java • MySQL                          |
+| 🗳 **Online Voting System** | Secure OTP-Based Voting System with Admin Dashboard                                      | PHP • MySQL                           |
+| 📄 **Invoice Generator**    | Professional Invoice & Quotation Generator with PDF Export                               | Next.js • Node.js                     |
 
 ---
 
 # 🏆 Achievements
 
-🏆 Winner – EMPIRE Mega Project Competition
+🥇 Winner – EMPIRE Mega Project Competition
 
 💻 Full Stack MERN Developer
 
-🤖 AI Enthusiast
+🤖 AI & Cloud Computing Enthusiast
 
-🌱 Open Source Contributor
+🌱 Continuous Learner
 
-🚀 Built Multiple Full Stack Applications
+🌍 Open Source Contributor
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Javed-Hallikeri&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-Hallikeri&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javed-Hallikeri&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -143,11 +199,11 @@ const javed = {
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javed-Hallikeri&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javed-Hallikeri&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -163,11 +219,19 @@ const javed = {
 
 ---
 
-# 📊 Profile Summary
+# 📋 Profile Summary
 
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Javed-Hallikeri&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Javed-Hallikeri&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Javed-Hallikeri&theme=tokyonight"/>
 
 </p>
 
@@ -183,48 +247,40 @@ const javed = {
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 2026 Roadmap
 
-- 🚀 Build SaaS Products
+✅ Build Production-Ready SaaS Projects
 
-- 🤖 Learn Advanced AI
+✅ Master AWS & Cloud Architecture
 
-- ☁ Master AWS
+✅ Learn Kubernetes & Docker
 
-- 🐳 Kubernetes
+✅ Improve System Design Skills
 
-- 📱 React Native
+✅ Contribute to Major Open Source Projects
 
-- 🌍 Contribute to Open Source
+✅ Explore Generative AI & LLM Applications
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Let's Connect
 
 <p align="center">
 
 <a href="mailto:javedhalikeri3993@gmail.com">
-
 <img src="https://skillicons.dev/icons?i=gmail"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/javed-hallikeri3993">
-
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-
 </a>
 
 <a href="https://github.com/Javed-Hallikeri">
-
 <img src="https://skillicons.dev/icons?i=github"/>
-
 </a>
 
 <a href="https://javedhallikeri.vercel.app">
-
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge&logo=vercel"/>
-
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-success?style=for-the-badge"/>
 </a>
 
 </p>
@@ -233,10 +289,10 @@ const javed = {
 
 <div align="center">
 
-## 💙 *"First, solve the problem. Then, write the code."*
+## ⭐ Thanks for visiting my profile!
 
-### Thanks for visiting my profile ❤️
+### *"Code is not just about solving problems; it's about creating possibilities."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=160&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:00F7FF,50:4F46E5,100:7B68EE"/>
 
 </div>
