@@ -95,7 +95,7 @@ AI-powered virtual group discussion platform — real-time video via WebRTC, aut
 
 `React` `Node.js` `MongoDB` `Socket.IO`
 
-[View repo →](https://github.com/Javed-Hallikeri)
+[View repo →](https://github.com/Javed-Hallikeri/VISION-MEET)
 
 </td>
 <td width="50%" valign="top">
@@ -105,7 +105,7 @@ Restaurant billing and management system with GST-compliant invoicing and live s
 
 `Java` `MySQL`
 
-[View repo →](https://github.com/Javed-Hallikeri)
+[View repo →](https://github.com/Javed-Hallikeri/BizFlow)
 
 </td>
 </tr>
@@ -133,7 +133,7 @@ Professional invoice and quotation generator with clean PDF export.
 </tr>
 </table>
 
-> Swap the placeholder `github.com/Javed-Hallikeri` links above with each project's actual repo URL.
+
 
 <br/>
 
